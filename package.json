@@ -1,7 +1,7 @@
 {
-  "name": "react-nvd3",
+  "name": "react-nvd3-roadcert-edition",
   "description": "React nvd3 reusable graph components.",
-  "version": "0.5.7",
+  "version": "0.1.0",
   "keywords": [
     "React",
     "D3",
@@ -10,18 +10,18 @@
     "reusable",
     "chart"
   ],
-  "homepage": "https://github.com/NuCivic/react-nvd3",
+  "homepage": "https://github.com/Roadcert/react-nvd3",
   "author": {
-    "name": "Mariano Carballal",
-    "email": "marianocarballal@gmail.com",
-    "url": "https://github.com/topicus"
+    "name": "James Cordeiro",
+    "email": "stephen@roadcert.com",
+    "url": "https://github.com/james-cordeiro"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:NuCivic/react-nvd3.git"
+    "url": "git@github.com:Roadcert/react-nvd3.git"
   },
   "bugs": {
-    "url": "https://github.com/NuCivic/react-nvd3/issues"
+    "url": "https://github.com/Roadcert/react-nvd3/issues"
   },
   "license": "MIT",
   "engines": {
@@ -56,9 +56,5 @@
   "dependencies": {
     "d3": "^3.5.16",
     "nvd3": "^1.8.2"
-  },
-  "peerDependencies": {
-    "react": ">=0.14.0",
-    "react-dom": ">=0.14.0"
-  }
+  } 
 }
